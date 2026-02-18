@@ -1,0 +1,5 @@
+name: SpearDisabler
+version: '1.0'
+main: me.misteria.speardisabler.SpearDisabler
+api-version: '1.21'
+folia-supported: true

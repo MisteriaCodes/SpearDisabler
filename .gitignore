@@ -1,0 +1,45 @@
+# Project exclude paths
+/.gradle/
+# User-specific stuff (IDE files, etc.)
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Compiled class files and build directories
+*.class
+bin/
+gen/
+build/
+target/
+
+# Package Files (compiled JARs, unless needed for specific tracking)
+*.jar
+*.war
+*.zip
+*.tar.gz
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Gradle
+.gradle/
+gradle.properties
+# Avoid ignoring Gradle wrapper jar file
+!gradle-wrapper.jar
+
+# Maven temporary files
+# target/ (covered above)
+
+# Log files
+*.log
+hs_err_pid*
+
+# Operating System specific files
+.DS_Store
+.AppleDouble
+Thumbs.db
+[Dd]esktop.ini
